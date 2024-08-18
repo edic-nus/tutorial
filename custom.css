@@ -1,0 +1,18 @@
+.ayu .hljs-meta {
+  color: #1fce28;
+}
+
+.note {
+  font-weight: bold;
+  color: rgb(235, 214, 27);
+}
+
+.task {
+  font-weight: bold;
+  color: rgb(16, 178, 35);
+}
+
+.warn {
+  font-weight: bold;
+  color: rgb(203, 43, 43);
+}
