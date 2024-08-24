@@ -10,3 +10,7 @@ We will cover the following web components in this section:
 - `image`
 - `video`
 - `references`
+
+> <p class="note"> Note
+>
+> Unless otherwise specified, all the web components in this section is **custom built** for this template, so you won't be able to search for them online. This note is to save you from fruitless searching effort.
