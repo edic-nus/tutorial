@@ -13,4 +13,5 @@
         - [Image Component](./chapter1/web-components/image.md)
         - [Video Component](./chapter1/web-components/video.md)
         - [References Component](./chapter1/web-components/references.md)
+    - [Pushing the changes you made to Github](./chapter1/push-to-github.md)
 - [Optional enhancement]()
