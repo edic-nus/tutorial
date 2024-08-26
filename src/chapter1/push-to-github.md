@@ -16,4 +16,3 @@ This will commit all the changes that you have made to the codebase. Replace the
 git push origin
 ```
 This will push the commit that you have made to Github, and automatically reflect the changes to your website for you.It should take around 1 minute or less to see the new change being reflected on your website.
-
